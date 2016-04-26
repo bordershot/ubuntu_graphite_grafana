@@ -1,5 +1,5 @@
 # ubuntu_graphite_grafana
 
-TODO: Enter the cookbook description here.
+Work in progress, not ready for use.
 
 # ubuntu_graphite_grafana
