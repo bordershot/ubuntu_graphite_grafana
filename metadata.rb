@@ -1,0 +1,10 @@
+name 'ubuntu_graphite_grafana'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures ubuntu_graphite_grafana'
+long_description 'Installs/Configures ubuntu_graphite_grafana'
+version '0.1.0'
+
+depends 'apache2', '~> 3.2.2'
+depends 'postgresql', '~> 4.0.6'
